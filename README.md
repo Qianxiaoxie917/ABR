@@ -11,5 +11,5 @@ This repository contains the code implementations and related materials for the 
 1. **ABRfun.cpp**: Primary C++ implementation of the ABR algorithm.
 2. **mainfun.cpp**: Auxiliary C++ functins of the ABR algorithm.
 3. **otherfun.R**: Auxiliary functions supporting the ABR algorithm.
-
+3. **ABRCV.R**: Parallelized cross-validation script for the ABR algorithm.
 
